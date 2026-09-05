@@ -1,6 +1,6 @@
 <div align="center">
 
-# Привет 👋 Я Семён Шапкин
+# Привет, Я Семён Шапкин
 
 **ML Engineer** · Student @ HSE MIEM, «Информатика и вычислительная техника»
 Classic ML → RecSys
@@ -53,9 +53,3 @@ Classic ML → RecSys
 
 ---
 
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=semenshapkin00-hash&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semenshapkin00-hash&layout=compact&hide_border=true)
-
-</div>
