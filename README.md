@@ -46,10 +46,9 @@ Classic ML → RecSys
 | Проект | Задача | Результат |
 |---|---|---|
 | [**Credit Scoring — Home Credit**](https://github.com/semenshapkin00-hash/credit-scoring-home-credit) | Бинарная классификация кредитного риска, 307k объектов, 120 признаков | ROC-AUC 0.7661 (+2.5% к baseline), 5-fold stratified CV без утечек |
-| [**Santander Value Prediction**](https://github.com/semenshapkin00-hash/santander-value-prediction) | Регрессия на разреженных данных 4459×4992, метрика RMSLE | RMSLE 1.419 (−13% к linear baseline), найдена и устранена утечка признаков |
+| [**Movie Recommendations — MovieLens**](https://github.com/semenshapkin00-hash/movie-recs) | Рекомендации фильмов: MF/BPR, neural two-tower, ALS и SANSA | Test NDCG@10 0.0762 (SANSA); FastAPI, новые пользователи и оценки, SQLite, uv, Docker |
 | [**A/B Testing: CTR анализ**](https://github.com/ExSp4ne/Py-Project-A-B-Testing) | Статистическая проверка значимости конверсии (Z-критерий для долей) | Переиспользуемый модуль статистики, отчёты в текст/графики |
 
-> 🔜 Готовлю проект по recommender systems (collaborative filtering / ranking) — скоро здесь появится ссылка.
 
 ---
 
